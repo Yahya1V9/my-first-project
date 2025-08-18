@@ -1,0 +1,39 @@
+
+#countdown {
+    color: rgb(141, 154, 155);
+    padding: 10px ;
+}
+
+#cards{
+    display: none;
+}
+
+#loader{
+    position: fixed;
+    top: 50%;
+    right: 40%;
+    transform:translate(-50%, -50%);
+}
+.loadercon{ 
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    justify-content: center; /* إضافة هذه السطر */
+    align-items: center; /* إضافة هذه السطر */
+    position: fixed;
+    background-color: rgb(172, 168, 168);
+}
+.list-group-item{
+    background: transparent;
+}
+img{
+    max-width: 100%;
+    margin: 20px auto;      
+    width: 300px;            
+    height: 300px;          
+    object-fit:cover;     
+    border-radius: 500%; 
+}
