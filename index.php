@@ -17,7 +17,7 @@ include './inc/db_close.php';
         <div class="position-relative  text-center">
             <div class="col-md-5 p-lg-5 mx-auto my-5">
                 <img src="./Credi.jpeg" alt="">
-                <h1 class="display-4 fw-normal">اربح مع نور</h1>
+                <h1 class="display-4 fw-normal">اربح مع يحيى</h1>
                 <p class="lead fw-normal">باقي على فتح التسجيل</p>
                 <h3 id="countdown"></h3>
                 <p class="lead fw-normal">للسحب على ربح نسخة مجانية من برنامج</p>
